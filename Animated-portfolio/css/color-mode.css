@@ -108,6 +108,5 @@
   background: var(--moon);
 }
 .dark-mode #color-mode {
-  background: var(--moon);
   justify-content: flex-end;
 }
