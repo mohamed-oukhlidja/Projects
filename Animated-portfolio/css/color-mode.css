@@ -99,13 +99,13 @@
 }
 
 #toggle-button {
-  background: var(--sun);
+  background-image: var(--sun);
   background-size: cover;
   cursor: pointer;
 }
 
 .dark-mode #toggle-button {
-  background: var(--moon);
+  background-image: var(--moon);
 }
 .dark-mode #color-mode {
   justify-content: flex-end;
