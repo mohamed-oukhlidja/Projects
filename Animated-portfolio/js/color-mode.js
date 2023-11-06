@@ -10,7 +10,6 @@ function loadColorMode() {
   root.classList.add(colorMode || defaultMode);
   updateToggleButton();
 }
-
 loadColorMode();
 
 // toggle color mmode
